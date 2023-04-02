@@ -8,7 +8,7 @@
 ## In progress
 
 ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![Node](https://img.shields.io/badge/-node-yellow?logo=node&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/-node-black?logo=node&logoColor=white&style=for-the-badge)
 
 <!--
 **semlisa1990/semlisa1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
