@@ -1,4 +1,14 @@
-### Hi there 👋
+## Lisa Semenova
+
+## Skills
+
+![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
+
+## In progress
+
+![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/-node-yellow?logo=node&logoColor=white&style=for-the-badge)
 
 <!--
 **semlisa1990/semlisa1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
