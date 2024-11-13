@@ -4,7 +4,7 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
-![PYTHON](https://img.shields.io/badge/-PYTHON-black?logo=python3&logoColor=white&style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/-Python-black?logo=python3&logoColor=white&style=for-the-badge)
 
 ## In progress
 
